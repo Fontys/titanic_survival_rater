@@ -30,4 +30,4 @@ This notebook is an example on how to get started, it is open for improvements a
 
 ## ⭐ Citation & Star
 If you use my work please cite and star ⭐ this repo. Thanks!
-> Konings, Hans H.M. (2025) "Titanic Survival Predictor" GitHub: https://github.com/Fontys/titanic_survival_rater/
+> Konings, Hans H.H.M. (2025) "Titanic Survival Predictor" GitHub: https://github.com/Fontys/titanic_survival_rater/
